@@ -11,6 +11,7 @@ PROCESS
 ├── Thread 3    ├── share the process's resources
 └── Thread 4  ──┘
 ```
+
 The process is the container.
 
 The threads are the workers doing execution inside that container.
