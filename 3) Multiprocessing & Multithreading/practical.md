@@ -3,7 +3,8 @@ screenshots captured from my kali VM
 tool used for viewing processes : htop
 
 <img width="1485" height="888" alt="htp-ss" src="https://github.com/user-attachments/assets/66af4a83-896c-468b-a7e1-fb324efd5564" />
-```
+
+```text
 PROCESS
 │
 ├── Thread 1  ──┐
