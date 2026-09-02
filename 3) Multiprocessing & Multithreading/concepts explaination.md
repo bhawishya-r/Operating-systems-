@@ -19,7 +19,7 @@ A process has its own resources, such as memory and execution state.
 
 ---
 
-## 2. Multiprocessing
+ 2. Multiprocessing
 
 **Multiprocessing** means using multiple CPU cores to execute multiple processes in parallel.
 
@@ -31,13 +31,13 @@ CPU
 └── Core 4 → Process 4
 ```
 
-### Main benefit
+ Main benefit
 
 > Multiple processes can execute at the same time using different CPU cores.
 
 ---
 
-## 3. Thread
+ 3. Thread
 
 A **thread** is a unit of execution inside a process.
 
@@ -54,7 +54,7 @@ Threads within the same process share the process's resources, especially its me
 
 ---
 
-## 4. Multithreading
+ 4. Multithreading
 
 **Multithreading** means having multiple threads running within the same process.
 
@@ -75,7 +75,7 @@ Each thread can handle a different part of the program's work.
 
 ---
 
-## 5. Ryzen 5 3400G Example
+ 5. Ryzen 5 3400G Example
 
 The **Ryzen 5 3400G** has:
 
@@ -107,7 +107,7 @@ These hardware threads allow the CPU to keep its execution resources better util
 
 ---
 
-## Quick Mental Model
+ Quick Mental Model
 
 ```text
 Program
