@@ -19,12 +19,12 @@ Created and executed a Bash script containing an infinite loop:
 
 while true
 do
-    echo "An experiment!"
+    echo "An experiment"
     sleep 1
 done
 ```
 
-The script continuously prints `An experiment!` with a 1-second delay.
+The script continuously prints `An experiment` with a 1-second delay.
 
 ### Tools Used
 
